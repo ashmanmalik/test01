@@ -1,4 +1,4 @@
-# Account verification
+# ACCOUNT VERIFICATION 01
 
 This Starter Kit takes a user through the account verification process using the Basiq API. This project has been to built with three main technologies:
 
